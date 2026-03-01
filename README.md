@@ -83,7 +83,6 @@ const nirinovich = {
 
 **Tech:** `React` `Tailwind CSS` `React Router`
 
-Uncomment when public:
 [🔗 Live Demo](https://malitix.com) · [📂 Repo](https://github.com/nirinovich/malitix)
 
 
@@ -102,8 +101,6 @@ Uncomment when public:
 </tr>
 </table>
 </div>
-
-> 💡 *Uncomment the links above once your repos/demos are live!*
 
 <br/>
 
